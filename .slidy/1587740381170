@@ -1,0 +1,4 @@
+lib/app/modules/venda/pages/vender/vender_page.dart
+test/app/modules/venda/pages/vender/vender_page_test.dart
+lib/app/modules/venda/pages/vender/vender_controller.dart
+test/app/modules/venda/pages/vender/vender_controller_test.dart

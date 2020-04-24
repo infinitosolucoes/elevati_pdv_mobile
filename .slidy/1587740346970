@@ -1,0 +1,4 @@
+lib/app/modules/venda/pages/carrinho/carrinho_page.dart
+test/app/modules/venda/pages/carrinho/carrinho_page_test.dart
+lib/app/modules/venda/pages/carrinho/carrinho_controller.dart
+test/app/modules/venda/pages/carrinho/carrinho_controller_test.dart
